@@ -40,12 +40,3 @@
 
 ###
 
-<h3 align="left">🔥 Estatísticas GitHub</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kaillun&theme=dark&locale=pt-br" height="220" alt="streak graph"  />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaillun&show_icons=true&theme=dark&locale=pt-br" height="150" alt="stats graph"  />
-</div>
