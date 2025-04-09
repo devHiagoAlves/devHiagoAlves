@@ -5,13 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/hiago-alves/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kaillun.kallun&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kaillun.kaillun&"  />
 </div>
 
 ###
@@ -24,11 +26,11 @@
 
 ###
 
-<p align="left">Me chamo Hiago Alves e sou do Brasil<br><br>- 🔭 Atualmente estou aprendendo os fundamentos de Python<br>- 📚 Focado em automação e futuramente em pentest<br>- ⚡ No meu tempo livre pratico exercícios de programação</p>
+<p align="left">Me chamo Hiago Alves e sou do Brasil<br><br>- 🔭 Atualmente estudando Python do básico ao avançado<br>- 📚 Focado em automação e futuramente em segurança ofensiva<br>- ⚡ Praticando algoritmos e lógica de programação</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="left">🛠 Tecnologias</h3>
 
 ###
 
@@ -38,10 +40,12 @@
 
 ###
 
-<h3 align="left">🔥 Minhas Estatísticas</h3>
+<h3 align="left">🔥 Estatísticas GitHub</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kaillun&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=kaillun&theme=dark&locale=pt-br" height="220" alt="streak graph"  />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaillun&show_icons=true&theme=dark&locale=pt-br" height="150" alt="stats graph"  />
 </div>
