@@ -1,42 +1,34 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# 👋 Olá, eu sou o Hiago Alves
 
-###
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+🔐 Pós-graduação em **Segurança Cibernética**  
+📊 Focado em **Ciência de Dados e Inteligência Artificial**  
+🚀 Em busca da primeira oportunidade como **Analista de Dados Júnior**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hiago-alves/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 🛠️ Tecnologias que estudo
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=flat&logo=google-analytics&logoColor=white)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kaillun.kaillun&"  />
-</div>
+---
 
-###
+## 📂 Projetos em destaque
+*(em construção — acompanhe minha evolução 🚀)*  
+- [Tabuada em Python](https://github.com/devHiagoAlves/tabuada-python)  
+- [Contador de Palavras](https://github.com/devHiagoAlves/contador-palavras)  
+- [Análise de Vendas Fictícias](https://github.com/devHiagoAlves/analise-vendas-python)
 
-<h1 align="center">Olá, eu sou o Hiago! 👋</h1>
+---
 
-###
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devHiagoAlves&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devHiagoAlves&layout=compact&theme=radical)
 
-<h3 align="left">👨‍💻 Sobre Mim</h3>
+---
 
-###
-
-<p align="left">Me chamo Hiago Alves e sou do Brasil<br><br>- 🔭 Atualmente estudando Python do básico ao avançado<br>- 📚 Focado em automação e futuramente em segurança ofensiva<br>- ⚡ Praticando algoritmos e lógica de programação</p>
-
-###
-
-<h3 align="left">🛠 Tecnologias</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
+## 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
