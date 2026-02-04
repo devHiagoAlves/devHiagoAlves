@@ -27,15 +27,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hiago-alves)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahiago32@gmail.com)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={devHiagoAlves}&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={devHiagoAlves}&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={devHiagoAlves}&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
